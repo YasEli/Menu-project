@@ -592,7 +592,6 @@ int main(int argc, char *argv[]) {
 				printf("\nCreditos\n");
 				printf("\n\nNombre del grupo: F Society");
 				printf("\nIntegrantes:      Yasmin Coto");
-				printf("\nTercer periodo, 2018");
 				printf("\n");
 				break;
 			}
